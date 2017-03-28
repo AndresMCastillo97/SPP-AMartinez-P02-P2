@@ -1,15 +1,17 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+//Proyecto Parcial 2 
+//Problema 1
+//Equipo Epsilon
+//Nombres, matrículas y carreras de integrantes de equipo:
+//Roberto Alain Rivera Bravo | A01411516 | IMT11
+//Fabricio Arturo Balboa Cavazos | A01411541 | IMT11
+//Andrés de Jesús Martínez Castillo | A01411447 | IMT11
+//Jessica Delgado González | A01411536 | IMT11
+//Alfredo Alejandro Lárraga Sosa | A01410278 | LMC
+
 package spp.amartinezc.p02.p2;
 import java.util.Arrays;
 import java.util.Scanner;
-/**
- *
- * @author andres
- */
+
 public class SPPAMartinezCP02P2 {
 
     /**
