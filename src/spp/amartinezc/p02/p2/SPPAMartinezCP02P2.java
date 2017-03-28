@@ -1,5 +1,5 @@
 //Proyecto Parcial 2 
-//Problema 1
+//Problema 2
 //Equipo Epsilon
 //Nombres, matrículas y carreras de integrantes de equipo:
 //Roberto Alain Rivera Bravo | A01411516 | IMT11
@@ -7,6 +7,12 @@
 //Andrés de Jesús Martínez Castillo | A01411447 | IMT11
 //Jessica Delgado González | A01411536 | IMT11
 //Alfredo Alejandro Lárraga Sosa | A01410278 | LMC
+
+/*
+2.	Haga un programa que dados dos arreglos determine si son iguales. 
+La dimensión y contenido del arreglo deberán ser definidas por el usuario. 
+Deberá recorrer cada arreglo para hacer la comparación. 
+*/
 
 package spp.amartinezc.p02.p2;
 import java.util.Arrays;
